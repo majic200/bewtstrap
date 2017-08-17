@@ -1,0 +1,24 @@
+
+body {
+  background-color: #99ccff;
+}
+.nav {
+  float: right;
+}
+
+.jumbotron {
+  clear: both;
+  background-color: #0059b3;
+}
+
+.btn-group {
+
+}
+
+.kylo {
+  clear: both;
+}
+
+.well {
+  background-color: #0059b3;
+}
