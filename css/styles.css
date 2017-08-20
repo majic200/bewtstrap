@@ -1,24 +1,33 @@
-
-body {
-  background-color: #99ccff;
+div  {
+  padding:10px;
 }
+
+.icon {
+  background-color: #000;
+  height: 100px;
+}
+
 .nav {
-  float: right;
+  background-color: #000;
+  height: 100px;
 }
 
-.jumbotron {
-  clear: both;
-  background-color: #0059b3;
+.main {
+  background-color: #000;
+  height: 500px;
 }
 
-.btn-group {
-
+.box2 {
+  height: 100px;
+  background-color: #000;
 }
 
-.kylo {
-  clear: both;
+.icon2 {
+  height: 250px;
+  background-color: #000;
 }
 
-.well {
-  background-color: #0059b3;
+.ptag {
+  height: 250px;
+  background-color: #000;
 }
