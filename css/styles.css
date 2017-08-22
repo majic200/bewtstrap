@@ -1,0 +1,33 @@
+div  {
+  padding:10px;
+}
+
+.icon {
+  background-color: #000;
+  height: 100px;
+}
+
+.nav {
+  background-color: #000;
+  height: 100px;
+}
+
+.main {
+  background-color: #000;
+  height: 500px;
+}
+
+.box2 {
+  height: 100px;
+  background-color: #000;
+}
+
+.icon2 {
+  height: 250px;
+  background-color: #000;
+}
+
+.ptag {
+  height: 250px;
+  background-color: #000;
+}
